@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Chicken_Detection/train
+val: /content/drive/MyDrive/Chicken_Detection/val
+
+nc: 3
+
+names: ["Chicken", "Owner", "Others"]
